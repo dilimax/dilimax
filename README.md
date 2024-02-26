@@ -13,10 +13,10 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Data Analyst and Machine Learning Engineer that specializes in using Python, Tableau, SQL, Excel for Data cleaning and Data Visualization. </p>
+<p align="left">I am a Data Analyst and Machine Learning Engineer specializing in using Python, Tableau, SQL, and Excel for Data cleaning and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+
+- 🌱 I’m currently learning many things, and I believe every day is a learning opportunity.
 - 💻 Visit my [Portfolio](https://dilimax.github.io) for more details about me.
 <!--End Intro-->
 
