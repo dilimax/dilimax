@@ -104,9 +104,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=chinedu.nkemdilim91@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/chinedu-nkemdilim-337461a4/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=chinedu-nkemdilim-337461a4 Instagram style="margin-bottom: 5px;" />
-</a>
+
 
 </div>
 <br/>
